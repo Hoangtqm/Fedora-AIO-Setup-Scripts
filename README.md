@@ -57,6 +57,7 @@
 | Git + Fastfetch | DNF | Dev tools |
 | OnlyOffice | Flatpak | Flathub |
 | WPS Office | Flatpak | Flathub |
+| Spotify | Flatpak | Flathub |
 | TLauncher Minecraft | SDKMAN | Java 17.0.12 Temurin bắt buộc |
 | Fedora Hyprland (JaKooLit) | Git | Interactive installer |
 | Fedora Hyprland (ML4W Stable) | Curl | ml4w.com/os/stable |
